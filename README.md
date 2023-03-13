@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bailongctui
+- 👋 Hi, I’m Acacius Ctui
 - 🌱 I’m currently learning WebGIS、Magento 2、Vue and GO
 - 📫 bailongctui@gmail.com
 
