@@ -4,8 +4,7 @@
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,9 +26,11 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailongctui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bailongctui&show_icons=true&theme=cobalt&count_private=true)
--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailongctui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
