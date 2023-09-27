@@ -6,11 +6,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.xubailong.com">Website</a> •
-  <a href="https://twitter.com/Guti_cat">Twitter</a>
-</p>
-
  <!-- About section -->
 
 ## ⚡ Technologies
