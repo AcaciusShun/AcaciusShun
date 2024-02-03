@@ -6,7 +6,18 @@
 </p>
 
 
+
  <!-- About section -->
+Hello, I'm Acacius, a passionate Front-End Engineer dedicated to crafting seamless and responsive web applications. With a strong foundation in modern front-end technologies, I excel in creating user-centric solutions. Here's a brief overview of my technical expertise:
+
+Languages: Proficient in JavaScript (including ES6+ features) and familiar with TypeScript basics.
+Frameworks/Libraries: Skilled in React.js, with good knowledge of Vue.js and Angular for versatile web development.
+State Management: Experienced in using Redux, MobX (for React apps), and Vuex (for Vue projects) to manage application state efficiently.
+Styling: Expert in CSS3, SASS/SCSS, and adept at using frameworks like Bootstrap and Material-UI for attractive UI design.
+Build Tools: Knowledgeable in front-end engineering tools like Webpack and Babel for optimizing build processes and improving project performance.
+Responsive Design: Capable of developing responsive web applications that provide excellent user experiences across devices.
+Version Control: Proficient with Git for version control, familiar with collaboration platforms like GitHub and GitLab.
+I'm eager to leverage my skills in a dynamic team to build innovative web applications. Looking forward to exploring opportunities to collaborate!
 
 ## ⚡ Technologies
 
