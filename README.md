@@ -58,8 +58,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bailongctui&show_icons=true&theme=cobalt&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailongctui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AcaciusShun&show_icons=true&theme=cobalt&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcaciusShun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
